@@ -9,6 +9,7 @@ description: >
   AfterLink route handlers or middleware, setting up TLS/JWT auth, browser WebSocket bridge,
   or writing tests for AfterLink routes. Even if the user just says "add real-time" or "live
   updates" in a Node.js project, consider this skill.
+license: MIT
 ---
 
 # AfterLink Agent Skill
