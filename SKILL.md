@@ -1,5 +1,5 @@
 ---
-name: afterlink
+name: afterlink-skill
 description: >
   Use this skill when working with AfterLink — a custom binary protocol for Node.js real-time
   communication. Trigger whenever the user mentions AfterLink, wants to replace WebSockets or HTTP
