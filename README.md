@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔗 AfterLink — Agent Skill
 
 > AI agent skill for building real-time Node.js apps with AfterLink — a 10-byte binary protocol that's 76% faster than WebSocket.
